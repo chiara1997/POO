@@ -1,0 +1,46 @@
+Questao
+ 
+ 1- Uma lista é uma coleção de elementos arrumados numa ordem linear, isto é, onde cada elemento 
+ tem um antecessor (exceto o primeiro) e um sucessor (exceto o último).
+ 
+ 2-Uma  coleção de elemento de ordem linear ,isto é , onde cada elemento  tem um antecessor (exceto 
+  primeiro ) e um sucessor (exceto o ultimo)
+  È uma coleção que  não possui elemento duplicados
+
+ 3- Um mapa armazena pares (chave, valor) chamados itens
+Chaves e valores podem ser de qualquer tipo
+Elemento e Valor são sinônimos.
+ 
+ 4-ArrayList-pode  armazenar  qualquer tipo de  objeto , pode ser alterado.
+ vantagem-o  acesso aleatorio e acesso sequencial  e rapido , verifica se  o elemento 
+ no  meio  da  lista é rapido.
+ desvantagem- ele  possui um construtor sobrecarregado.
+ 
+LinkedLists são implementados usando listas ligadas, ou seja, ponteiros. Deste modo, a memória utilizada para armazenar uma lista não é contígua.
+Isto não permite um acesso direto como em arrays. É preciso navegar entre os ponteiros para chegar no fim da lista, por exemplo
+Vantagem: economia de memória.
+Desvantagem: desempenho
+ 
+ 
+ 
+ 5- 
+  remove(Objct)- resposánvel por remover  os objetos.Utiliza  implementação do equals
+  indeOX(Objct)-resposável por retornar  o índice de  primeira ocorrencia do elemennto.Utiliza
+  o equals
+  Contais(objct) responsável por retorna  um boolean para e verifica  se  objeto esta  na lista.
+  Utiliza o equals.
+  
+6-Não ,porque  a  unica  forma de remover algo correto é pelo interator.
+7-LikHadSet-  mantém  a ordem de inserção ,ou seja, quando  eu tenta acessa  com os interator 
+vão acessar  com a ordem que acessei  .
+HashSet é uma tabela  de  espalhamento para  os dados ficarem organiado  de  maneira que sejam faceis 
+de encontrar.
+TreeSet- é arvore  binaria para ver se tem um ordem na sua estrutura  ,não se  pode usas has e
+tem que implementa o  comparable.
+8-
+
+9-
+
+10-
+
+ 
