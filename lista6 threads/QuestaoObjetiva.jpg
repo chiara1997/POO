@@ -1,0 +1,7 @@
+4 - vai ser a letra E pq depende  de qual therd ela  vai acessar  primeira;
+5-da erro de compilação    pq não tem o metodo da interface  Runnable e  nem Thread.Mais se 
+não levou em conta  a  implementação então a resposta  irá ser a letra c.
+6-Da  erro  de compilção  pq ele não implementa a Runnable e nem extnde  a classe Thread 
+assim não  sobrescreve o run. se não levar  em consideração  a  implementação  ocorre o  metodo 
+sicronaze onde um therd so excutara depois da outra.Ocorrendo  troca de valores  acabando  com o 
+mesmo valor e como eles estão sicronizado não vai da inconsitencia de dados.
